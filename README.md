@@ -13,7 +13,7 @@ O programa:
 
 Imprimindo o número 1  
 Imprimindo o número 2  
-...  
+
 
 Se o primeiro número for maior que o segundo, o sistema lança uma exceção com a mensagem:
 
